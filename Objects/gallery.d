@@ -1,0 +1,11 @@
+.\objects\gallery.o: gallery.c
+.\objects\gallery.o: gallery.h
+.\objects\gallery.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\gallery.o: GLCD.h
+.\objects\gallery.o: C:\Users\ECBME\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.12.0\Board\Board_Joystick.h
+.\objects\gallery.o: pixel_ui.h
+.\objects\gallery.o: audio_engine.h
+.\objects\gallery.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\gallery.o: mort.c
+.\objects\gallery.o: G_khan.c
+.\objects\gallery.o: Jensen.c

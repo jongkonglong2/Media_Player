@@ -1,0 +1,13 @@
+.\objects\media_center.o: media_center.c
+.\objects\media_center.o: media_center.h
+.\objects\media_center.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\media_center.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\media_center.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\media_center.o: GLCD.h
+.\objects\media_center.o: C:\Users\ECBME\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.12.0\Board\Board_Joystick.h
+.\objects\media_center.o: pixel_ui.h
+.\objects\media_center.o: games.h
+.\objects\media_center.o: gallery.h
+.\objects\media_center.o: audio_player.h
+.\objects\media_center.o: audio_engine.h
+.\objects\media_center.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
